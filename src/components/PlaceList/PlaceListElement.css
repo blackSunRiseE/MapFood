@@ -1,0 +1,85 @@
+.review-container{
+    border-bottom: 1px solid rgb(230, 229, 229);
+    padding-top: 30px;
+    padding-left: 20px;
+    
+}
+
+.review-head-container{
+    display: flex;
+    margin-bottom:5px;
+    position: sticky;
+}
+
+.review-author-name{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-left: 10px;
+}
+.review-author-name:hover{
+    text-decoration: underline;
+}
+
+.review-author-name p{
+    text-transform: capitalize;
+    margin: 0;
+}
+
+.review-author-name span{
+    font-size: 0.9rem;
+    color:rgb(105, 104, 104);
+}
+
+.review-body-info{
+    display: flex;
+}
+
+.review-body-info{
+    display: flex;
+}
+
+.review-body-info span{
+    font-size: 0.9rem;
+    color:rgb(105, 104, 104);
+    padding-bottom: 5px;
+}
+
+.review-body-content{
+    overflow: hidden;
+    padding-right: 30px;
+    word-break: break-all;
+}
+.review-body-content p{
+    text-transform: capitalize;
+}
+
+.like-btn{
+    padding: 6px;
+    width: 100px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.like-btn span{
+    margin-left: 5px;
+}
+
+.like-btn:hover{
+    background-color: rgba(230, 229, 229,.4);
+}
+
+.more-btn{
+    font-size: 14px;
+    font-weight: 600;
+    background-color: transparent;
+    border: none;
+    color: #1a73e8;
+    cursor: pointer;
+}
+
+.more-btn:hover{
+    text-decoration: underline;
+}

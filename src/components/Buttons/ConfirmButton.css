@@ -1,0 +1,22 @@
+.button-content{
+    background-color: transparent;
+    outline: none;
+    width: 48px;
+    height: 36px;
+    padding: 0 8px;
+    box-sizing: content-box;
+    border: none;
+    border-radius: 5px;
+    color: #1a73e8;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.button-content:hover{
+    background-color: rgba(171, 174, 255, 0.1);
+}
+
+.button-content:active{
+    background-color: rgba(171, 174, 255, 0.2);
+}

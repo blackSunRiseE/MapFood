@@ -1,0 +1,10 @@
+.register{
+    overflow-y: auto;
+}
+.register label{
+    margin-top: 15px;
+}
+
+.login-icon{
+    width: 100%;
+}

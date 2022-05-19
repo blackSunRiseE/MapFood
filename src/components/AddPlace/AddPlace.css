@@ -1,0 +1,89 @@
+.add-place-container{
+  position: relative;
+  z-index:100;
+  height: 100vh;
+  width: 420px; 
+  background-color: white;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+.add-place-header{
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
+
+.add-place-header p{
+  margin-left: 90px;
+}
+
+.add-form{
+  display: flex;
+  flex-direction: column;
+  margin: 20px 30px;
+}
+
+.add-form label{
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.add-place-submit{
+  width: 150px;
+}
+
+.add-form label input{    
+  height: 30px;
+  width: 80%;
+  line-height: 1.5rem;
+  font-size: 1.1rem;
+  border: 1px solid rgb(216, 216, 216);
+  border-radius: 5px;
+  margin-top: 5px;
+  padding: 0 10px;
+}
+
+.add-form label input:focus{
+  outline: 1px #1a73e8 solid;
+}
+
+.add-place-submit{
+  height: 30px;
+  margin-top: 20px;
+  font-size: 1.1rem;
+  background-color: #1a73e8;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.description-area{
+  resize: none;
+  width: 310px;
+  height: 150px;
+  padding: 5 10px;
+  line-height: 1.5rem;
+  font-size: 1.1rem;
+  border: 1px solid rgb(216, 216, 216);
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+.description-area:focus{
+  outline: 1px #1a73e8 solid;
+}
+
+.red-outline{
+  outline: 1px solid red;
+}
+
+.blue-outline{
+  outline: 1px solid blue;
+}

@@ -1,0 +1,83 @@
+.review-list-container{
+    position: relative;
+    padding-top:10px ;
+    margin-left: 10px; 
+    z-index:100;
+    height: 100vh;
+    width: 420px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    box-sizing: border-box;
+
+}
+
+.review-list-header{
+    padding: auto;
+    width: 100%;
+    min-height: 50px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    top: 0;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.review-list-body{
+    position: relative;
+    width: 100%;
+    margin-top: 1.2rem;
+    background-color: rgba(250, 250, 250, 1);   
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 850px;
+}
+
+
+.close-list{
+    background-color: grey;
+}
+
+.add-place-link{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.add-place-link:hover{
+    background-color: rgba(240, 240, 240, .5);
+    color: #1a73e8;
+}
+
+.add-place-link span{
+    margin-left: 10px;
+}
+
+.auth-hint-place{
+    position: absolute;
+    margin-left: 130px;
+    background-color: #fff;
+    padding: 5px;
+    box-shadow: 1px 1px 0px 0px rg  ba(0,0,0,.1);
+    border-radius: 5px;
+    animation: fadeIn ease 6s;
+}
+
+@keyframes fadeIn {
+    0% {opacity:1;}
+    100% {opacity:0;}
+  }

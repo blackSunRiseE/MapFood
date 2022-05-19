@@ -1,0 +1,41 @@
+.login-menu-container{
+    z-index: 2000;
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    right: 0;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 2px 3px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.toggle-login{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    margin: 0 0 5px 5px;
+
+}
+
+.toggle-login button{
+    background-color: transparent;
+    color: gray;
+    cursor: pointer;
+}
+
+.toggle-login button:hover{
+    color: rgb(95, 94, 94);
+}
+
+.enter-button{
+    border: none;
+    border-right: 1px solid gray;
+}
+.register-button{
+    border: none;
+}
