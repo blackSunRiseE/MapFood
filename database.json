@@ -1,1 +1,332 @@
-{"map":[{"geometry":[56.74944,53.236675],"name":"kfc","description":"nice place","place_id":2,"adress":"sample adress1","webSite":"kfc.ru","phone":"89995004631","avgScore":1,"countReviews":6},{"geometry":[56.84096921849133,53.099749755859335],"name":"BK","description":"bad place","place_id":"91bl8a7wxl1mh1hkq","adress":"sample adress2","webSite":"BK.ru","phone":"89990004631","avgScore":3.8,"countReviews":5},{"geometry":[56.87106331680379,53.256304931640585],"name":"SHAWARMA","description":"NICE JRACHKA ","place_id":"fot1b7hw0l3brgslp","adress":"Россия, Удмуртская Республика, Завьяловский район, село Первомайский","webSite":"www.edim-sobak.ru","phone":"88005553535","avgScore":3.25,"countReviews":4},{"geometry":[56.85865244617825,53.27896423339838],"name":"PIVO","description":"отличная пивнуха","place_id":"fot1b715nol3bzdl7d","adress":"Россия, Удмуртская Республика, Ижевск, микрорайон Люлли","webSite":"www.gorkovskay.ru","phone":"89774428512"}],"users":[{"user_id":0,"name":"stepan","login":"hui","password":"srazudva","user_reviews_id":[1,2,"fot1b7plfl3bty6ke","fot1b7143pl3bx451c","fot1b714bfl3bx4js8","fot1b714cwl3bx51vh","fot1b714exl3bxv0sv","fot1b715mfl3bxv1s7","fot1b715mvl3bxv261","fot1b715nal3bxv29x","fot1b71748l3bzedxq","fot1b7176kl3bzptau"]},{"user_id":"fot1b719kel366ylsg","name":"loshok","login":"loshok","password":"4321","user_reviews_id":["fot1b7abpl37lksf9"]},{"user_id":"fot1b771zl37j84y0","name":"denis123","login":"denis123","password":"povis","user_reviews_id":[]},{"user_id":"fot1b776hl37jbyls","name":"4denis123","login":"4denis123","password":"povis","user_reviews_id":[]},{"user_id":"fot1b77dtl37je7cz","name":"4denis123","login":"4denis123","password":"povis","user_reviews_id":[]},{"user_id":"fot1b73lrl391ybnb","name":"a","login":"a","password":"b","user_reviews_id":[]}],"reviews":[{"name":"KFC","review":"lorem","place_id":2,"review_id":1,"rating":3,"date":"2022-04-10T11:50:33.429Z","likes":2,"user_id":0,"userInfo":{"name":"stepan","reviewCount":10}},{"name":"BK","review":"hui","place_id":"91bl8a7wxl1mh1hkq","review_id":2,"rating":4,"date":"2022-02-10T11:50:33.429Z","likes":15,"user_id":0,"userInfo":{"name":"stepan","reviewCount":3}},{"name":"KFC","review":"чел хорош","place_id":"2","review_id":"fot1b7ft6l303cw7d","rating":3,"date":"2022-05-10T11:50:33.429Z","likes":0,"user_id":0,"userInfo":{"name":"stepan","reviewCount":10}},{"name":"BK","review":"oaoao mmm\n","place_id":"91bl8a7wxl1mh1hkq","review_id":"fot1b7llol34wmphg","rating":3,"date":"2022-05-13T20:41:04.860Z","likes":0,"user_id":0,"userInfo":{"name":"stepan","reviewCount":3}},{"name":"BK","review":"nice nice nice nice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nice","place_id":"91bl8a7wxl1mh1hkq","review_id":"fot1b7lnul34wn0ug","rating":5,"date":"2022-05-13T20:41:19.575Z","likes":0,"user_id":0,"userInfo":{"name":"stepan","reviewCount":3}},{"name":"BK","review":"buterat","place_id":"91bl8a7wxl1mh1hkq","review_id":"fot1b7m29l34xr0z9","rating":2,"date":"2022-05-13T21:12:26.016Z","likes":0,"user_id":0,"userInfo":{"name":"stepan","reviewCount":3}},{"name":"BK","review":"norm","place_id":"91bl8a7wxl1mh1hkq","review_id":"fot1b7abpl37lksf9","rating":5,"date":"2022-05-15T17:54:58.125Z","likes":0,"user_id":"fot1b719kel366ylsg","userInfo":{"name":"loshok","reviewCount":1}},{"name":"SHAWARMA","review":"ОГОНЬ шавуха, прям во","place_id":"fot1b7hw0l3brgslp","review_id":"fot1b7plfl3bty6ke","rating":4,"date":"2022-05-18T17:00:24.620Z","likes":2,"user_id":0,"userInfo":{"name":"stepan","reviewCount":6}},{"name":"SHAWARMA","review":"НЕ оч шава\n","place_id":"fot1b7hw0l3brgslp","review_id":"fot1b7143pl3bx451c","rating":3,"date":"2022-05-18T18:29:01.406Z","likes":0,"user_id":0,"userInfo":{"name":"stepan","reviewCount":6}},{"name":"SHAWARMA","review":"крутяк блин блинский","place_id":"fot1b7hw0l3brgslp","review_id":"fot1b714bfl3bx4js8","rating":5,"date":"2022-05-18T18:29:20.543Z","likes":0,"user_id":0,"userInfo":{"name":"stepan","reviewCount":6}},{"name":"SHAWARMA","review":"Биполярочка(((((((((","place_id":"fot1b7hw0l3brgslp","review_id":"fot1b714cwl3bx51vh","rating":1,"date":"2022-05-18T18:29:43.989Z","likes":0,"user_id":0,"userInfo":{"name":"stepan","reviewCount":6}},{"name":"kfc","review":"","place_id":"2","review_id":"fot1b714exl3bxv0sv","rating":0,"date":"2022-05-18T18:49:55.648Z","likes":0,"user_id":0,"userInfo":{"name":"stepan","reviewCount":10}},{"name":"kfc","review":"","place_id":"2","review_id":"fot1b715mfl3bxv1s7","rating":0,"date":"2022-05-18T18:49:56.912Z","likes":0,"user_id":0,"userInfo":{"name":"stepan","reviewCount":10}},{"name":"kfc","review":"","place_id":"2","review_id":"fot1b715mvl3bxv261","rating":0,"date":"2022-05-18T18:49:57.382Z","likes":0,"user_id":0,"userInfo":{"name":"stepan","reviewCount":10}},{"name":"kfc","review":"","place_id":"2","review_id":"fot1b715nal3bxv29x","rating":0,"date":"2022-05-18T18:49:57.553Z","likes":0,"user_id":0,"userInfo":{"name":"stepan","reviewCount":10}},{"name":"PIVO","review":"Люблю пиво а похвалите еще пиво","place_id":"fot1b715nol3bzdl7d","review_id":"fot1b71748l3bzedxq","rating":5,"date":"2022-05-18T19:32:58.743Z","likes":0,"user_id":0,"userInfo":{"name":"stepan","reviewCount":11}},{"name":"PIVO","review":"Сегодня было не оч","place_id":"fot1b715nol3bzdl7d","review_id":"fot1b7176kl3bzptau","rating":2,"date":"2022-05-18T19:41:51.852Z","likes":0,"user_id":0}]}
+{
+    "map": [
+        {
+            "geometry": [
+                56.74944,
+                53.236675
+            ],
+            "name": "kfc",
+            "description": "nice place",
+            "place_id": 2,
+            "adress": "sample adress1",
+            "webSite": "kfc.ru",
+            "phone": "89995004631",
+            "avgScore": 1,
+            "countReviews": 6
+        },
+        {
+            "geometry": [
+                56.84096921849133,
+                53.099749755859335
+            ],
+            "name": "BK",
+            "description": "bad place",
+            "place_id": "91bl8a7wxl1mh1hkq",
+            "adress": "sample adress2",
+            "webSite": "BK.ru",
+            "phone": "89990004631",
+            "avgScore": 3.8,
+            "countReviews": 5
+        },
+        {
+            "geometry": [
+                56.87106331680379,
+                53.256304931640585
+            ],
+            "name": "SHAWARMA",
+            "description": "NICE JRACHKA ",
+            "place_id": "fot1b7hw0l3brgslp",
+            "adress": "Россия, Удмуртская Республика, Завьяловский район, село Первомайский",
+            "webSite": "www.edim-sobak.ru",
+            "phone": "88005553535",
+            "avgScore": 3.25,
+            "countReviews": 4
+        },
+        {
+            "geometry": [
+                56.85865244617825,
+                53.27896423339838
+            ],
+            "name": "PIVO",
+            "description": "отличная пивнуха",
+            "place_id": "fot1b715nol3bzdl7d",
+            "adress": "Россия, Удмуртская Республика, Ижевск, микрорайон Люлли",
+            "webSite": "www.gorkovskay.ru",
+            "phone": "89774428512"
+        }
+    ],
+    "users": [
+        {
+            "user_id": 0,
+            "name": "stepan",
+            "login": "admin",
+            "password": "admin",
+            "user_reviews_id": [
+                1,
+                2,
+                "fot1b7plfl3bty6ke",
+                "fot1b7143pl3bx451c",
+                "fot1b714bfl3bx4js8",
+                "fot1b714cwl3bx51vh",
+                "fot1b714exl3bxv0sv",
+                "fot1b715mfl3bxv1s7",
+                "fot1b715mvl3bxv261",
+                "fot1b715nal3bxv29x",
+                "fot1b71748l3bzedxq",
+                "fot1b7176kl3bzptau"
+            ]
+        },
+        {
+            "user_id": "fot1b719kel366ylsg",
+            "name": "pasha",
+            "login": "pasha123",
+            "password": "4321",
+            "user_reviews_id": [
+                "fot1b7abpl37lksf9"
+            ]
+        },
+        {
+            "user_id": "fot1b776hl37jbyls",
+            "name": "4denis123",
+            "login": "4denis123",
+            "password": "dovis",
+            "user_reviews_id": []
+        },
+        {
+            "user_id": "fot1b77dtl37je7cz",
+            "name": "4denis123",
+            "login": "4denis123",
+            "password": "povis",
+            "user_reviews_id": []
+        },
+        {
+            "user_id": "fot1b73lrl391ybnb",
+            "name": "a",
+            "login": "a",
+            "password": "b",
+            "user_reviews_id": []
+        }
+    ],
+    "reviews": [
+        {
+            "name": "KFC",
+            "review": "lorem",
+            "place_id": 2,
+            "review_id": 1,
+            "rating": 3,
+            "date": "2022-04-10T11:50:33.429Z",
+            "likes": 2,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 10
+            }
+        },
+        {
+            "name": "KFC",
+            "review": "чел хорош",
+            "place_id": "2",
+            "review_id": "fot1b7ft6l303cw7d",
+            "rating": 3,
+            "date": "2022-05-10T11:50:33.429Z",
+            "likes": 0,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 10
+            }
+        },
+        {
+            "name": "BK",
+            "review": "oaoao mmm\n",
+            "place_id": "91bl8a7wxl1mh1hkq",
+            "review_id": "fot1b7llol34wmphg",
+            "rating": 3,
+            "date": "2022-05-13T20:41:04.860Z",
+            "likes": 0,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 3
+            }
+        },
+        {
+            "name": "BK",
+            "review": "nice nice nice nice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nicenice nice nice",
+            "place_id": "91bl8a7wxl1mh1hkq",
+            "review_id": "fot1b7lnul34wn0ug",
+            "rating": 5,
+            "date": "2022-05-13T20:41:19.575Z",
+            "likes": 0,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 3
+            }
+        },
+        {
+            "name": "BK",
+            "review": "buterat",
+            "place_id": "91bl8a7wxl1mh1hkq",
+            "review_id": "fot1b7m29l34xr0z9",
+            "rating": 2,
+            "date": "2022-05-13T21:12:26.016Z",
+            "likes": 0,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 3
+            }
+        },
+        {
+            "name": "BK",
+            "review": "norm",
+            "place_id": "91bl8a7wxl1mh1hkq",
+            "review_id": "fot1b7abpl37lksf9",
+            "rating": 5,
+            "date": "2022-05-15T17:54:58.125Z",
+            "likes": 0,
+            "user_id": "fot1b719kel366ylsg",
+            "userInfo": {
+                "name": "loshok",
+                "reviewCount": 1
+            }
+        },
+        {
+            "name": "SHAWARMA",
+            "review": "ОГОНЬ шавуха, прям во",
+            "place_id": "fot1b7hw0l3brgslp",
+            "review_id": "fot1b7plfl3bty6ke",
+            "rating": 4,
+            "date": "2022-05-18T17:00:24.620Z",
+            "likes": 2,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 6
+            }
+        },
+        {
+            "name": "SHAWARMA",
+            "review": "НЕ оч шава\n",
+            "place_id": "fot1b7hw0l3brgslp",
+            "review_id": "fot1b7143pl3bx451c",
+            "rating": 3,
+            "date": "2022-05-18T18:29:01.406Z",
+            "likes": 0,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 6
+            }
+        },
+        {
+            "name": "SHAWARMA",
+            "review": "крутяк блин блинский",
+            "place_id": "fot1b7hw0l3brgslp",
+            "review_id": "fot1b714bfl3bx4js8",
+            "rating": 5,
+            "date": "2022-05-18T18:29:20.543Z",
+            "likes": 0,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 6
+            }
+        },
+        {
+            "name": "SHAWARMA",
+            "review": "Биполярочка(((((((((",
+            "place_id": "fot1b7hw0l3brgslp",
+            "review_id": "fot1b714cwl3bx51vh",
+            "rating": 1,
+            "date": "2022-05-18T18:29:43.989Z",
+            "likes": 0,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 6
+            }
+        },
+        {
+            "name": "kfc",
+            "review": "",
+            "place_id": "2",
+            "review_id": "fot1b714exl3bxv0sv",
+            "rating": 0,
+            "date": "2022-05-18T18:49:55.648Z",
+            "likes": 0,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 10
+            }
+        },
+        {
+            "name": "kfc",
+            "review": "",
+            "place_id": "2",
+            "review_id": "fot1b715mfl3bxv1s7",
+            "rating": 0,
+            "date": "2022-05-18T18:49:56.912Z",
+            "likes": 0,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 10
+            }
+        },
+        {
+            "name": "kfc",
+            "review": "",
+            "place_id": "2",
+            "review_id": "fot1b715mvl3bxv261",
+            "rating": 0,
+            "date": "2022-05-18T18:49:57.382Z",
+            "likes": 0,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 10
+            }
+        },
+        {
+            "name": "kfc",
+            "review": "",
+            "place_id": "2",
+            "review_id": "fot1b715nal3bxv29x",
+            "rating": 0,
+            "date": "2022-05-18T18:49:57.553Z",
+            "likes": 0,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 10
+            }
+        },
+        {
+            "name": "PIVO",
+            "review": "Люблю пиво а похвалите еще пиво",
+            "place_id": "fot1b715nol3bzdl7d",
+            "review_id": "fot1b71748l3bzedxq",
+            "rating": 5,
+            "date": "2022-05-18T19:32:58.743Z",
+            "likes": 0,
+            "user_id": 0,
+            "userInfo": {
+                "name": "stepan",
+                "reviewCount": 11
+            }
+        },
+        {
+            "name": "PIVO",
+            "review": "Сегодня было не оч",
+            "place_id": "fot1b715nol3bzdl7d",
+            "review_id": "fot1b7176kl3bzptau",
+            "rating": 2,
+            "date": "2022-05-18T19:41:51.852Z",
+            "likes": 0,
+            "user_id": 0
+        }
+    ]
+}
